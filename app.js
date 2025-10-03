@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
 app.get("/register", (req, res) => {
   res.render("register"); 
 });
-
+// checking if this works
 // (Later) POST /register will handle saving user data
 // app.post("/register", uploadMiddleware, async (req, res) => { ... });
 
