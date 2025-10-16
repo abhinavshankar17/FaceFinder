@@ -1,8 +1,6 @@
 
 # 🧠 FaceFinder — AI-Based Face Recognition System
 
-![FaceFinder Banner](assets/banner.png)
-
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -22,8 +20,9 @@ The system uses **DeepFace (FaceNet)** to extract embeddings, compares them usin
 ---
 
 
-
 [Watch the video](https://www.youtube.com/shorts/DOv_VhFuTZs)
+
+![FaceFinder Banner](assets/banner.png)
 
 
 
