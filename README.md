@@ -1,7 +1,7 @@
 <
 # 🧠 FaceFinder — AI-Based Face Recognition System
 
-![FaceFinder Banner](https://github.com/yourusername/FaceFinder/assets/banner.png)
+![FaceFinder Banner](https://github.com/abhinavshankar17/FaceFinder/assets/banner.png)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -19,6 +19,11 @@ It enables finding possible Instagram profiles (or other identities) from an upl
 The system uses **DeepFace (FaceNet)** to extract embeddings, compares them using **cosine similarity**, and stores results securely in **MongoDB**.
 
 ---
+
+
+
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://www.youtube.com/shorts/DOv_VhFuTZs)
+
 
 ## 🚀 Features
 
@@ -171,12 +176,8 @@ FaceFinder ensures:
 B.Tech CSE (w/s IT) • SRM Institute of Science and Technology  
 📍 Chennai, India  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abhinavshankar17)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-shankar-0885b1208/)  
 🔗 [GitHub](https://github.com/abhinavshankar17)
 
 ---
 
-## 🏷️ Tags
-
-`#AI` `#DeepLearning` `#ComputerVision` `#MERN` `#FaceRecognition` `#EthicsInAI` `#FullStack` `#PrivacyByDesign`
->>>>>>> 402f1b9 (Added Detailed README)
